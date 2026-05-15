@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "523435359310",
+    "project_id": "hasta-kala-33644",
+    "storage_bucket": "hasta-kala-33644.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:523435359310:android:fcd94999c7d5dfc455171f",
+        "android_client_info": {
+          "package_name": "com.example.hasta_kala"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0PbZO9dZYCnAGtrkbXIrCRILJh4UOGos"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
